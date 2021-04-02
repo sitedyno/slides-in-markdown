@@ -65,7 +65,7 @@ body {
 }
 
 .remark-slide-content { /* actual slides style */
-    background-color: #2196F3;
+    background-color: #c0b0a1;
     background-repeat: no-repeat;
     background-position: center center !important;
     background-size: 100% auto !important; /* override remark.js's Javascript-based image auto-scaling */
@@ -197,7 +197,6 @@ body {
     padding: 1em 1.5em 0.1em 2.5em;
     border-radius: 3px;
 }
-
 
 /* Videos
 -------------------------------------------------- */
